@@ -1,6 +1,6 @@
 'use strict'
 import Vue from 'vue'
-// import router from './router/router'
+import router from './router/router'
 import App from './App.vue'
 
 window.Vue = Vue
