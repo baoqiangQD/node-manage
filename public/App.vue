@@ -9,6 +9,9 @@
 </template>
 <style>
   /* @import "./assets/scss/common.scss"; */
+  .main{
+    padding: 4px 15px 0 15px;
+  }
 </style>
 <script>
   // import headerAside from 'headerAside'
